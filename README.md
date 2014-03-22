@@ -5,4 +5,6 @@ This is a playground to test paid tasks with Peercoins and Peer4commit. So no co
 
 Task list completed:
 
+22/3/2104 Updated wiki github Peercoin-tasks
+
 
